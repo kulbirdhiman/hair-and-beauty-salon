@@ -9,7 +9,7 @@ const AboutPage = () => {
           Hair & Beauty unisex Salon
         </h2>
         <p className="text-lg text-gray-700 leading-relaxed max-w-3xl mx-auto">
-          At Satanam Hair & Beauty Salon, we combine expert techniques with premium products to give you an unforgettable beauty experience. Our team is dedicated to making you look and feel your absolute best in a relaxing, luxurious environment.
+          At Hair & Beauty unisex Salon, we combine expert techniques with premium products to give you an unforgettable beauty experience. Our team is dedicated to making you look and feel your absolute best in a relaxing, luxurious environment.
         </p>
       </section>
 

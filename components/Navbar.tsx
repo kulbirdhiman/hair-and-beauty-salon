@@ -25,7 +25,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="/" className="flex items-center">
           <Image
-            src="/logo-removebg-preview.png"
+            src="/main-logo.png"
             alt="Hair & Beauty Salon Logo"
             height={40}
             width={120}

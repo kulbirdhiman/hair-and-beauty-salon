@@ -14,7 +14,7 @@ const HeroSection = () => {
       {/* Content */}
       <div className="relative z-10 max-w-2xl">
         <h1 className="text-3xl md:text-5xl font-serif font-bold mb-4 drop-shadow-lg">
-          Satanam Hair & Beauty Salon
+          Hair and beauty unisex salon
         </h1>
         <p className="text-lg md:text-xl font-light mb-8 drop-shadow-md">
           Elevate your beauty with style and grace.
